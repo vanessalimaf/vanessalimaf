@@ -1,5 +1,5 @@
 ## Hi there 👋
-Vanessa is a software developer with master’s degree in Microelectronics. Interested in software development and IoT systems. Her main knowledge of technology is Python, but also has some experience with Javascript, C# and C/C++.
+Vanessa is a software developer with master’s degree in Microelectronics. Interested in software development and IoT systems. Her main knowledge of technology is Javascript, but also has some experience with Python, C# and C/C++.
 
 ## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
